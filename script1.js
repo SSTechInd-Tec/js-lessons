@@ -27,6 +27,12 @@
         let
         const
 
+    consol.log()
+    typeof
+
+
+    
+
 */
 
 var a = 10 // integer
